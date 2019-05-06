@@ -1,5 +1,5 @@
 # These are three different anagram algorithms.  
 Big-O:  
-First: O(n^2)  
-Second: O(n^2)  
-Third: O(n)  
+anagram1: O(n^2)  
+anagram2: O(n^2)  
+anagram3: O(n)  
